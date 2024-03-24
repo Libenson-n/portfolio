@@ -67,7 +67,7 @@ const Container = styled.div`
     
     &:hover > .card {
         scale: 1.1;
-        z-index: 1000;
+        z-index: 100;
         .back {
             bottom: 0;
         }
