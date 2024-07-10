@@ -34,6 +34,6 @@ const GlobalStyles = createGlobalStyle`
         background-color: inherit;
     }
 
-`
+`;
 
 export default GlobalStyles;
